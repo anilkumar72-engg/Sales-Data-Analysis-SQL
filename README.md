@@ -94,5 +94,5 @@ LIMIT 3;
 
 ## 📬 Contact
 Created by **Anil Kumar Budha**  
-📧 [Your Email Here]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/anilkumar-budda-5a240128b)  
+📧  anilkumar.budda44@gmail.com
+🔗 [LinkedIn Profile] https://www.linkedin.com/in/anilkumar-budda-5a240128b
